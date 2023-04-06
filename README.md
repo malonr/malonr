@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a backend developer with experience working with python and developing web applications using technologies such as Django, Django Rest Framework, SQL, PostgresSQL, and Docker. Experience working with remote teams applying agile methodologies such as Scrum.<br>I'm currently learning about FastAPI, algorithms and Informatic security.<br>
+I'm a backend developer with experience working with python and developing web applications using technologies such as Django, Django Rest Framework, SQL, PostgresSQL, and Docker. Experience working with remote teams applying agile methodologies such as Scrum.<br><br>
 
 
 ## 🌐 Socials:
